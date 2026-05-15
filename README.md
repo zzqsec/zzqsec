@@ -23,7 +23,7 @@
 🔹 Languages   Java · Python · PHP · C/C++ · Go
 🔹 Security    Pentest · AV Evasion · Code Audit · Red Team
 🔹 Tools       BurpSuite · C2(CS/Mythic) · Sysinternals · IDA
-🔹 Platform    Windows · Linux · macOS
+🔹 Platform    Windows · Linux 
 ```
 
 ### 📦 Projects
