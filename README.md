@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hey, I'm zzq</h1>
-<h3 align="center">Red Team Operator · Malware Research · Security Tooling</h3>
+<h3 align="center">Penetration Testing · Malware Research · Security Tooling</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-渗透测试%20Member-red?style=flat-square" />
   <img src="https://img.shields.io/badge/-Penetration%20Testing-red?style=flat-square" />
   <img src="https://img.shields.io/badge/-AV%20Evasion-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Red%20Team-green?style=flat-square" />
