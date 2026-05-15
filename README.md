@@ -2,6 +2,7 @@
 <h3 align="center">Red Team Operator · Malware Research · Security Tooling</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-渗透测试%20Member-red?style=flat-square" />
   <img src="https://img.shields.io/badge/-Penetration%20Testing-red?style=flat-square" />
   <img src="https://img.shields.io/badge/-AV%20Evasion-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Red%20Team-green?style=flat-square" />
@@ -15,7 +16,7 @@
 - 🛡️ **Penetration Testing** — Web/AD/Cloud pentest, vulnerability discovery, exploit development
 - 🔥 **AV/EDR Evasion** — WebShell bypass, RASP/EDR escape, 360 QVM anti-malware
 - 🔬 **Red Team Tooling** — C2 traffic obfuscation, lateral movement, privilege escalation
-- 📝 **Knowledge Base** — Open-sourced at [ai-redteam-notes](https://github.com/yunhai666/ai-redteam-notes)
+- 📝 **Knowledge Base** — Open-sourced at [ai-redteam-notes](https://github.com/zzqsec/ai-redteam-notes)
 
 ### 🧰 Tech Stack
 
@@ -30,7 +31,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [ai-redteam-notes](https://github.com/yunhai666/ai-redteam-notes) | Red Team knowledge base — PHP/Java evasion, QVM bypass, Ghost Bits |
+| [ai-redteam-notes](https://github.com/zzqsec/ai-redteam-notes) | Red Team knowledge base — PHP/Java evasion, QVM bypass, Ghost Bits |
 | More coming soon... | |
 
 ### 📬 Contact
