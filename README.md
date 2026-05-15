@@ -12,8 +12,9 @@
 
 ### 🔭 What I Do
 
-- 🛡️ **AV/EDR Evasion** — WebShell bypass, RASP/EDR escape, 360 QVM anti-malware
-- 🔬 **Red Team Tooling** — C2 traffic伪装, lateral movement, privilege escalation
+- 🛡️ **Penetration Testing** — Web/AD/Cloud pentest, vulnerability discovery, exploit development
+- 🔥 **AV/EDR Evasion** — WebShell bypass, RASP/EDR escape, 360 QVM anti-malware
+- 🔬 **Red Team Tooling** — C2 traffic obfuscation, lateral movement, privilege escalation
 - 📝 **Knowledge Base** — Open-sourced at [ai-redteam-notes](https://github.com/yunhai666/ai-redteam-notes)
 
 ### 🧰 Tech Stack
@@ -32,18 +33,15 @@
 | [ai-redteam-notes](https://github.com/yunhai666/ai-redteam-notes) | Red Team knowledge base — PHP/Java evasion, QVM bypass, Ghost Bits |
 | More coming soon... | |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yunhai666&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunhai666&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
-
 ### 📬 Contact
 
 - 🔗 GitHub: [github.com/yunhai666](https://github.com/yunhai666)
 
 ---
+
+<p align="center">
+  <em>Salute to all the security pioneers who came before us — standing on your shoulders, we see further.</em>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yunhai666&color=brightgreen&style=flat-square" alt="visitor counter" />
