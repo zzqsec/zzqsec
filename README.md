@@ -22,8 +22,16 @@
 ```
 🔹 Languages   Java · Python · PHP · C/C++ · Go
 🔹 Security    Pentest · AV Evasion · Code Audit · Red Team
-🔹 Tools       BurpSuite · C2(CS/Mythic) · Sysinternals · IDA
+🔹 Tools       BurpSuite · Yakit · C2(CS/AdaptixC2) · IDA
 🔹 Platform    Windows · Linux 
+```
+
+### 🤖 AI Stack
+
+```
+🔹 AI Client   QwenPaw Desktop
+🔹 LLM        DeepSeek V4 Pro
+🔹 Workflow   AI generates drafts → Manually reviewed → Verified
 ```
 
 ### 📦 Projects
