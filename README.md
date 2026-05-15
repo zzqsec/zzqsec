@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm zzq</h1>
-<h3 align="center">Penetration Testing · Malware Research · Security Tooling</h3>
+<h3 align="center">Penetration Testing · Red Team · Security Tooling</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Penetration%20Testing-red?style=flat-square" />
