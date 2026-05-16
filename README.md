@@ -29,7 +29,7 @@
 ### 🤖 AI Stack
 
 ```
-🔹 AI Client   QwenPaw Desktop
+🔹 AI Client   QwenPaw Desktop  Claude
 🔹 LLM        DeepSeek V4 Pro
 🔹 Workflow   AI generates drafts → Manually reviewed → Verified
 ```
